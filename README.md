@@ -1,2 +1,2 @@
 # TechnoFuture-OT
-Techno-Future 
+Techno-Future mod for One Turret Modding competition made both my Neolight and exotic_stuffing
