@@ -1,0 +1,11 @@
+{
+  "internalname": "CFironslab",
+  "displayname": "Iron Slab",
+  "bulletdata": {},
+
+  "recipedata": {
+
+
+    "def:refiner": "CFscatterer"
+  }
+}

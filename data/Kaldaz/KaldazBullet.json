@@ -1,0 +1,14 @@
+{
+  "internalname": "CFkaldazbullet",
+  "displayname": "Kaldaz Bullet",
+  "bulletdata": {
+
+    "damage": 6,
+    "freeze": [3,15]
+
+  },
+
+  "recipedata": {
+
+  }
+}

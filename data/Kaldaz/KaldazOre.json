@@ -1,0 +1,11 @@
+{
+  "internalname": "CFkaldazore",
+  "displayname": "Kaldaz Ore",
+  "bulletdata": {},
+
+  "recipedata": {
+
+    "def:furnace": "CFkaldaz",
+    "def:refiner": "CFkaldazcog"
+  }
+}

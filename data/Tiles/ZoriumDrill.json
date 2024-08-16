@@ -1,0 +1,14 @@
+{
+  "internalname": "CFzoriumdrill",
+  "displayname": "Zorium Drill",
+  "price": 1000,
+  "sizex": 1,
+  "sizey": 1,
+  "freeinput": false,
+  "showprogress": true,
+  "inputside": "null",
+  "outputside": "west",
+  "worktime": 5,
+  "subtype": "producers",
+  "material": "CFzoriumore"
+}

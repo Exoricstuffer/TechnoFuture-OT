@@ -1,0 +1,13 @@
+{
+  "internalname": "CFzorium",
+  "displayname": "Zorium",
+  "bulletdata": {},
+
+  "recipedata": {
+
+
+    "def:refiner": "CFzoriumbullet",
+    "CFcutter": "CFzoriumshard",
+    "CFshaper": "CFzoriumsphere"
+  }
+}

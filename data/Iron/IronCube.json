@@ -1,0 +1,14 @@
+{
+  "internalname": "CFironcube",
+  "displayname": "Iron Cube",
+  "bulletdata": {},
+
+  "recipedata": {
+
+    "def:iron": {
+      "CFshaper": "CFironcube"
+    },
+    "def:refiner": "CFirondiamond",
+    "CFcutter": "CFironslab"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "internalname": "CFcoppertriangle",
+  "displayname": "Copper Triangle",
+  "bulletdata": {},
+
+  "recipedata": {
+
+    "def:copper": {
+      "CFshaper": "CFcoppertriangle"
+    },
+    "def:refiner": "CFcopperspearhead"
+  }
+}

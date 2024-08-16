@@ -1,0 +1,15 @@
+{
+  "internalname": "CFomegascatteredcopperbullet",
+  "displayname": "Ω Scattered Copper Bullet",
+  "bulletdata": {
+
+    "damage": 15,
+    "scatter": 3
+
+  },
+
+  "recipedata": {
+
+    "CFomegacopperbullet.CFscatterer": { "def:constructor": "CFomegascatteredcopperbullet" }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "internalname": "CFironshardhalf",
+  "displayname": "Iron Bullet Shard 2/4",
+  "bulletdata": {},
+
+  "recipedata": {
+
+    "CFironcube.CFironshardquart": { "def:constructor": "CFironshardhalf" }
+  }
+}

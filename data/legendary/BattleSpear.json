@@ -1,0 +1,16 @@
+{
+  "internalname": "CFbattlespear",
+  "displayname": "Battle Spear",
+  "bulletdata": {
+
+    "damage": 20
+
+
+  },
+
+  "recipedata": {
+
+
+    "CFcopperspearhead.CFsteelpole": { "def:constructor": "CFbattlespear" }
+  }
+}

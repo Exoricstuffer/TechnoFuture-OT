@@ -1,0 +1,17 @@
+{
+  "internalname": "CFfirefrostarrow",
+  "displayname": "Fire-frost Arrow",
+  "bulletdata": {
+
+    "damage": 13,
+    "freeze": [ 5, 5 ],
+    "burn": [ 5, 0.05 ]
+
+  },
+
+  "recipedata": {
+
+
+    "CFfusedamulet.CFsteelpole": { "def:constructor": "CFfirefrostarrow" }
+  }
+}

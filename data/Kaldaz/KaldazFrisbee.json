@@ -1,0 +1,16 @@
+{
+  "internalname": "CFkaldazfrisbee",
+  "displayname": "Kaldaz Frisbee",
+  "bulletdata": {
+
+    "damage": 8,
+    "freeze": [ 3, 15 ]
+
+
+
+  },
+
+  "recipedata": {
+
+  }
+}

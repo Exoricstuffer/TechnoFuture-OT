@@ -1,0 +1,15 @@
+{
+  "internalname": "CFshaper",
+  "displayname": "Shaper",
+  "price": 600,
+  "sizex": 2,
+  "sizey": 2,
+  "inputcount": 1,
+  "outputcount":  1,
+  "freeinput": false,
+  "showprogress": true,
+		"inputside": {"pos":"(1, 0)","side":"east"},
+		"outputside": {"pos":"(0, -1)","side":"north"},
+  "worktime": 3,
+  "subtype": "converters"
+}

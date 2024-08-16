@@ -1,0 +1,10 @@
+{
+  "internalname": "CFserrateddiamond",
+  "displayname": "Serrated Diamond",
+  "bulletdata": {},
+
+  "recipedata": {
+
+    "CFkaldazcog.CFirondiamond": { "def:constructor": "CFserrateddiamond" }
+  }
+}

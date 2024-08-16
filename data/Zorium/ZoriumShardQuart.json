@@ -1,0 +1,10 @@
+{
+  "internalname": "CFzoriumshardquart",
+  "displayname": "Zorium Bullet Shard 1/4",
+  "bulletdata": {},
+
+  "recipedata": {
+
+    "CFzoriumshard.CFzoriumsphere": { "def:constructor": "CFzoriumshardquart" }
+  }
+}

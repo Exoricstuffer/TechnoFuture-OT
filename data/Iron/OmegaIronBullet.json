@@ -1,0 +1,15 @@
+{
+  "internalname": "CFomegaironbullet",
+  "displayname": "Ω Iron Bullet",
+  "bulletdata": {
+
+    "damage": 15
+
+
+  },
+
+  "recipedata": {
+
+    "CFironcube.CFironshardhalf": { "def:constructor": "CFomegaironbullet" }
+  }
+}

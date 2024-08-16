@@ -1,0 +1,12 @@
+{
+  "internalname": "CFkaldazhexagon",
+  "displayname": "Kaldaz Hexagon",
+  "bulletdata": {},
+
+  "recipedata": {
+
+
+    "def:refiner": "CFkaldazfrisbee",
+    "CFcutter": "CFkaldazring"
+  }
+}

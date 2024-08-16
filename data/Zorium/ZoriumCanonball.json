@@ -1,0 +1,16 @@
+{
+  "internalname": "CFzoriumcanonball",
+  "displayname": "Zorium Canonball",
+  "bulletdata": {
+
+    "damage": 8,
+    "burn": [ 3, 0.01 ]
+
+
+
+  },
+
+  "recipedata": {
+
+  }
+}

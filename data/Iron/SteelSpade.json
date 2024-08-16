@@ -1,0 +1,10 @@
+{
+  "internalname": "CFsteelcrown",
+  "displayname": "Steel Crown",
+  "bulletdata": {},
+
+  "recipedata": {
+
+    "def:refiner": "CFsteelcrown"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "internalname": "CFkaldazshardhalf",
+  "displayname": "Kaldaz Bullet Shard 2/4",
+  "bulletdata": {},
+
+  "recipedata": {
+
+    "CFkaldazhexagon.CFkaldazshardquart": { "def:constructor": "CFkaldazshardhalf" }
+  }
+}

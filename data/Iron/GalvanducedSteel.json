@@ -1,0 +1,13 @@
+{
+  "internalname": "CFgalvanducedsteel",
+  "displayname": "Galvanduced Steel",
+  "bulletdata": {},
+
+  "recipedata": {
+
+    "def:steel": {
+      "def:refiner": "CFgalvanducedsteel"
+    },
+    "CFcutter": "CFsteelpole"
+  }
+}

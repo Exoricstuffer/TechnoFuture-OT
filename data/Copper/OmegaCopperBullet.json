@@ -1,0 +1,15 @@
+{
+  "internalname": "CFomegacopperbullet",
+  "displayname": "Ω Copper Bullet",
+  "bulletdata": {
+
+    "damage": 15
+
+
+  },
+
+  "recipedata": {
+
+    "CFcoppershardhalf.CFcoppertriangle": { "def:constructor": "CFomegacopperbullet" }
+  }
+}

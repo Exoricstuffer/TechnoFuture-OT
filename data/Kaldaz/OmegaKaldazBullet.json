@@ -1,0 +1,16 @@
+{
+  "internalname": "CFomegakaldazbullet",
+  "displayname": "Ω Kaldaz Bullet",
+  "bulletdata": {
+
+    "damage": 15,
+    "freeze": [ 5, 5 ]
+
+
+  },
+
+  "recipedata": {
+
+    "CFkaldazhexagon.CFkaldazshardhalf": { "def:constructor": "CFomegakaldazbullet" }
+  }
+}

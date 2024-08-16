@@ -1,0 +1,10 @@
+{
+  "internalname": "CFfusedamulet",
+  "displayname": "Fused Amulet",
+  "bulletdata": {},
+
+  "recipedata": {
+
+    "CFkaldazring.CFzoriumsphere": { "def:constructor": "CFfusedamulet" }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "internalname": "CFomegazoriumbullet",
+  "displayname": "Ω Zorium Bullet",
+  "bulletdata": {
+
+    "damage": 15,
+    "burn": [ 5, 0.05 ]
+
+  },
+
+  "recipedata": {
+
+    "CFzoriumshardhalf.CFzoriumsphere": { "def:constructor": "CFomegazoriumbullet" }
+  }
+}

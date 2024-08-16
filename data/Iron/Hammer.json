@@ -1,0 +1,15 @@
+{
+  "internalname": "CFhammer",
+  "displayname": "Hammer",
+  "bulletdata": {
+
+    "damage": 9
+
+
+  },
+
+  "recipedata": {
+
+    "CFironslab.CFsteelpole": { "def:constructor": "CFhammer" }
+  }
+}

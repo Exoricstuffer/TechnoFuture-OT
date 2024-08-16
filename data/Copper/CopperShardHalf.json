@@ -1,0 +1,10 @@
+{
+  "internalname": "CFcoppershardhalf",
+  "displayname": "Copper Bullet Shard 2/4",
+  "bulletdata": {},
+
+  "recipedata": {
+
+    "CFcoppershardquart.CFcoppertriangle": { "def:constructor": "CFcoppershardhalf" }
+  }
+}

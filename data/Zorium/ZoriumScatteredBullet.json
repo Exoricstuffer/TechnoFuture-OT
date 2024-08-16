@@ -1,0 +1,15 @@
+{
+  "internalname": "CFzoriumscatteredbullet",
+  "displayname": "Zorium Scattered Bullet",
+  "bulletdata": {
+
+    "damage": 6,
+    "burn": [ 3, 0.01 ],
+    "scatter": 3
+
+  },
+
+  "recipedata": {
+    "CFscatterer.CFzoriumbullet": { "def:constructor": "CFzoriumscatteredbullet" }
+  }
+}

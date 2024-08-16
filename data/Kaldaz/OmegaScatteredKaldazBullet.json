@@ -1,0 +1,16 @@
+{
+  "internalname": "CFomegascatteredkaldazbullet",
+  "displayname": "Ω Scattered Kaldaz Bullet",
+  "bulletdata": {
+
+    "damage": 15,
+    "freeze": [ 5, 5 ],
+    "scatter": 3
+
+  },
+
+  "recipedata": {
+
+    "CFomegakaldazbullet.CFscatterer": { "def:constructor": "CFomegascatteredkaldazbullet" }
+  }
+}

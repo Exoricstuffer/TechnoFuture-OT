@@ -1,0 +1,15 @@
+{
+  "internalname": "CFzkaldazscatteredbullet",
+  "displayname": "Kaldaz Scattered Bullet",
+  "bulletdata": {
+
+    "damage": 6,
+    "freeze": [ 3, 15 ],
+    "scatter": 3
+
+  },
+
+  "recipedata": {
+    "CFkaldazbullet.CFscatterer": { "def:constructor": "CFzkaldazscatteredbullet" }
+  }
+}

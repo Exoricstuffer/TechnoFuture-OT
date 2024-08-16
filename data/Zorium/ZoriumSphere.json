@@ -1,0 +1,11 @@
+{
+  "internalname": "CFzoriumsphere",
+  "displayname": "Zorium Sphere",
+  "bulletdata": {},
+
+  "recipedata": {
+
+
+    "def:refiner": "CFzoriumcanonball"
+  }
+}

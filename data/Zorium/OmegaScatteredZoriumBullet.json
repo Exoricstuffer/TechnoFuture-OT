@@ -1,0 +1,16 @@
+{
+  "internalname": "CFomegascatteredzoriumbullet",
+  "displayname": "Ω scattered Zorium Bullet",
+  "bulletdata": {
+
+    "damage": 15,
+    "burn": [ 5, 0.05 ],
+    "scatter": 3
+
+  },
+
+  "recipedata": {
+
+    "CFomegazoriumbullet.CFscatterer": { "def:constructor": "CFomegascatteredzoriumbullet" }
+  }
+}

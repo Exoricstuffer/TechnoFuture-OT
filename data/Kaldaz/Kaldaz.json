@@ -1,0 +1,13 @@
+{
+  "internalname": "CFkaldaz",
+  "displayname": "Kaldaz",
+  "bulletdata": {},
+
+  "recipedata": {
+
+
+    "def:refiner": "CFkaldazbullet",
+    "CFcutter": "CFkaldazshard",
+    "CFshaper": "CFkaldazhexagon"
+  }
+}

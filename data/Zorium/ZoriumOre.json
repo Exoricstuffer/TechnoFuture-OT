@@ -1,0 +1,10 @@
+{
+  "internalname": "CFzoriumore",
+  "displayname": "Zorium Ore",
+  "bulletdata": {},
+
+  "recipedata": {
+
+    "def:furnace":"CFzorium"
+  }
+}

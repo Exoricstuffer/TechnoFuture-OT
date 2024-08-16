@@ -1,0 +1,14 @@
+{
+  "internalname": "CFzironscatteredbullet",
+  "displayname": "Iron Scattered Bullet",
+  "bulletdata": {
+
+    "damage": 6,
+    "scatter": 3
+
+  },
+
+  "recipedata": {
+    "def:ironbullet.CFscatterer": { "def:constructor": "CFzironscatteredbullet" }
+  }
+}

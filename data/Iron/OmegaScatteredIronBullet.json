@@ -1,0 +1,15 @@
+{
+  "internalname": "CFomegascatteredironbullet",
+  "displayname": "Ω Scattered Iron Bullet",
+  "bulletdata": {
+
+    "damage": 15,
+    "scatter": 3
+
+  },
+
+  "recipedata": {
+
+    "CFomegaironbullet.CFscatterer": { "def:constructor": "CFomegascatteredironbullet" }
+  }
+}

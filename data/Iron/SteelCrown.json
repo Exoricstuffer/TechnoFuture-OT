@@ -1,0 +1,14 @@
+{
+  "internalname": "CFsteelspade",
+  "displayname": "Steel Spade",
+  "bulletdata": {},
+
+  "recipedata": {
+
+    "def:refiner": "CFsteelcrown",
+    "def:steel": {
+      "CFshaper": "CFsteelspade",
+      "def:refiner": "CFgalvanducedsteel"
+    }
+  }
+}
